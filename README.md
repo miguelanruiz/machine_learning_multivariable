@@ -17,8 +17,9 @@ Scikit-learn se aprovecha comunmente para proporcionar implementaciones de mucho
 
 # Caracteristicas Generales
 
-  - Identificacion de DataSet y creacion de modelos adaptados a partir de ello
+  - Identificacion de DataSet y creacion de modelos adaptados de aprendizaje a partir de ello
   - Analisis e ingenieria de datos a partir del objetivo a un modelo satisfactorio
+  - Descomposicion del error en relacion con las curvas de aprendizaje
 
 ### Instalacion
 
